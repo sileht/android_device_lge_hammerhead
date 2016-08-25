@@ -18,8 +18,12 @@
 -app/shutdownlistener/shutdownlistener.apk
 -app/TimeService/TimeService.apk
 -app/UpdateSetting/UpdateSetting.apk
+-app/MirrorLinkCertUpdate/MirrorLinkCertUpdate.apk
+-app/MirrorLinkServer/MirrorLinkServer.apk
 -priv-app/OmaDmclient/OmaDmclient.apk
 -priv-app/SprintHiddenMenu/SprintHiddenMenu.apk
+app/MirrorLinkServer/lib/arm/libCapture.so
+app/MirrorLinkServer/lib/arm/libmlupnp.so
 bin/bridgemgrd
 bin/diag_klog
 bin/diag_mdlog
